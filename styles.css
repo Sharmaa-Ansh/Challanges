@@ -1,0 +1,98 @@
+
+
+
+.main-box{
+  display: flex;
+  max-width: 67%;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.box-1{
+    border: none;
+    font-size: 15px;
+    padding-left: 2rem;
+    width: 400px;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 00.5rem;
+    background-color: hsl(31, 77%, 52%);
+   
+}
+
+.box-2{
+    border: none;
+    padding-left: 2rem;
+    width: 400px;
+    background-color: hsl(184, 100%, 22%);
+    font-size: 15px;
+}
+
+.box-3{
+    border: none;
+    padding-left: 2rem;
+    width: 400px;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    background-color: hsl(179, 100%, 13%);
+    font-size: 15px;
+
+}
+
+.car-description{
+    padding-right: 2rem;
+    margin-top: 2rem;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+
+}
+
+.image{
+    margin-top: 2rem;
+}
+
+.car-heading{
+    margin-top: 2rem;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    font-size: 2rem;
+    color: hsl(0, 0%, 95%);
+}
+
+.btn-1{
+    margin-top: 4.2rem;
+    padding: 0.7rem 1.3rem;
+    border-radius: 2.5rem;
+    margin-bottom: 2.1rem;
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    color: hsl(31, 77%, 52%);
+    font-family: 'Lexend Deca', sans-serif;
+
+
+}
+
+.btn-2{
+    margin-top: 4.2rem;
+    padding: 0.7rem 1.3rem;
+    border-radius: 2.5rem;
+    margin-bottom: 2.1rem;
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    color:  hsl(184, 100%, 22%);
+    font-family: 'Lexend Deca', sans-serif;
+
+
+}
+
+.btn-3{
+    margin-top: 4.2rem;
+    padding: 0.7rem 1.3rem;
+    border-radius: 2.5rem;
+    margin-bottom: 2.1rem;
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    color: hsl(179, 100%, 13%);
+    font-family: 'Lexend Deca', sans-serif;
+    
+}
